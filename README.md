@@ -18,5 +18,11 @@ Place the assignments
 robertsj   relzohery
 relzohery  rlreed
 rlreed     robertsj
+
+tjgreene27	jacobotten
+jacobotten 	365rdm31
+365rdm31   	clintonsteiner
+clintonsteiner 	bryc3z
+bryc3z 		tjgreene27
 ```
 
