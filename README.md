@@ -26,7 +26,7 @@ Here's the list:
 2	bteaford17
 3	csk214
 4	cjlucero
-5	cmason2211
+5	cmason2211 cmason2211 egiunta cjlucero
 6	egiunta
 7	emsimon11
 8	kaiwen
