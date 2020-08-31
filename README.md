@@ -36,7 +36,7 @@ Here's the list:
 12	mapartr
 13	nickclapp
 14	petefish
-15	peterg27
+15	peterg27 peterg27 pmascal petefish
 16	pmascal
 17	rhwiens
 18	schif
