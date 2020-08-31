@@ -39,7 +39,7 @@ Here's the list:
 15	peterg27
 16	pmascal
 17	rhwiens
-18	schif
+18	schif JacobRobert sethe44 rhwiens
 19	sethe44
 20	stclennan
 21	stevejr
