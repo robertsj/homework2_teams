@@ -41,7 +41,7 @@ Here's the list:
 17	rhwiens
 18	schif
 19	sethe44
-20	stclennan
+20	stclennan stclennan stevejr sethe44
 21	stevejr
 22	talbright
 23	tdm1998
