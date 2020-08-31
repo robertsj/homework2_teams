@@ -42,7 +42,7 @@ Here's the list:
 18	schif
 19	sethe44
 20	stclennan
-21	stevejr steve-bush stclennan talbright
+21	stevejr steve-bush talbright stclennan
 22	talbright
 23	tdm1998
 24	tdochs
