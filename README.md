@@ -38,7 +38,7 @@ Here's the list:
 14	petefish
 15	peterg27
 16	pmascal
-17	rhwiens
+17	rhwiens rhwiens schif pmascal
 18	schif
 19	sethe44
 20	stclennan
