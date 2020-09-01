@@ -31,7 +31,7 @@ Here's the list:
 7	emsimon11
 8	kaiwen
 9	kboom7
-10	kelli23
+10	kelli23 kellim521 lukesteg kboom7
 11	lukesteg
 12	mapartr
 13	nickclapp
