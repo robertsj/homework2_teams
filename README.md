@@ -40,7 +40,7 @@ Here's the list:
 16	pmascal
 17	rhwiens
 18	schif
-19	sethe44
+19	sethe44 stclennan schif
 20	stclennan
 21	stevejr
 22	talbright
