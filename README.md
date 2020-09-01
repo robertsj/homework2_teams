@@ -37,7 +37,7 @@ Here's the list:
 13	nickclapp nick-clapp petefish mapartr
 14	petefish
 15	peterg27 peterg27 pmascal petefish
-16	pmascal
+16	pmascal pmascal rhwiens peterg27
 17	rhwiens rhwiens schif pmascal
 18	schif JacobRobert sethe44 rhwiens
 19	sethe44
