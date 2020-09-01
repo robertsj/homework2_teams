@@ -46,7 +46,7 @@ Here's the list:
 22	talbright tylerbalbright tdm1998 stevejr
 23	tdm1998
 24	tdochs tdochs tgcarlson tdm1998
-25	tgcarlson
+25	tgcarlson tgcarlson theppner tdochs
 26	theppner
 27	wfpelton wfpelton acneilse theppner
 ```
