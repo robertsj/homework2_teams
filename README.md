@@ -48,6 +48,6 @@ Here's the list:
 24	tdochs tdochs tgcarlson tdm1998
 25	tgcarlson
 26	theppner
-27	wfpelton
+27	wfpelton wfpelton acneilse theppner
 ```
 
