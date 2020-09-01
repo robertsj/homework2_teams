@@ -28,7 +28,7 @@ Here's the list:
 4	cjlucero
 5	cmason2211 cmason2211 egiunta cjlucero
 6	egiunta ericgiunta emsimon11 cmason2211
-7	emsimon11
+7	emsimon11 emsimon11 kaiwen egiunta
 8	kaiwen
 9	kboom7
 10	kelli23 kellim521 lukesteg kboom7
