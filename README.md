@@ -33,7 +33,7 @@ Here's the list:
 9	kboom7
 10	kelli23 kellim521 lukesteg kboom7
 11	lukesteg lukestegeman mapartr kelli23
-12	mapartr
+12	mapartr mapartr nickclapp lukesteg
 13	nickclapp nick-clapp petefish mapartr
 14	petefish
 15	peterg27 peterg27 pmascal petefish
