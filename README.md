@@ -43,7 +43,7 @@ Here's the list:
 19	sethe44
 20	stclennan stclennan stevejr sethe44
 21	stevejr steve-bush talbright stclennan
-22	talbright
+22	talbright tylerbalbright tdm1998 stevejr
 23	tdm1998
 24	tdochs tdochs tgcarlson tdm1998
 25	tgcarlson
