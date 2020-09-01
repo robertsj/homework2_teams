@@ -41,7 +41,7 @@ Here's the list:
 17	rhwiens rhwiens schif pmascal
 18	schif JacobRobert sethe44 rhwiens
 19	sethe44
-20	stclennan
+20	stclennan stclennan stevejr sethe44
 21	stevejr steve-bush talbright stclennan
 22	talbright
 23	tdm1998
