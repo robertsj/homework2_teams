@@ -35,7 +35,7 @@ Here's the list:
 11	lukesteg lukestegeman mapartr kelli23
 12	mapartr mapartr nickclapp lukesteg
 13	nickclapp nick-clapp petefish mapartr
-14	petefish
+14	petefish ADP-Design  peterg27 nickclapp
 15	peterg27 peterg27 pmascal petefish
 16	pmascal pmascal rhwiens peterg27
 17	rhwiens rhwiens schif pmascal
