@@ -21,17 +21,17 @@ gamma
 Here's the list:
 
 ```
-0	acneilse
+0	acneilse acneilse adamowens2199	wfpelton
 1	adamowens2199
 2	bteaford17
 3	csk214
 4	cjlucero
 5	cmason2211 cmason2211 egiunta cjlucero
-6	egiunta
+6	egiunta ericgiunta emsimon11 cmason2211
 7	emsimon11
 8	kaiwen
 9	kboom7
-10	kelli23
+10	kelli23 kellim521 lukesteg kboom7
 11	lukesteg
 12	mapartr
 13	nickclapp
@@ -39,10 +39,10 @@ Here's the list:
 15	peterg27
 16	pmascal
 17	rhwiens
-18	schif
+18	schif JacobRobert sethe44 rhwiens
 19	sethe44
 20	stclennan
-21	stevejr
+21	stevejr steve-bush talbright stclennan
 22	talbright
 23	tdm1998
 24	tdochs
