@@ -44,7 +44,7 @@ Here's the list:
 20	stclennan
 21	stevejr
 22	talbright
-23	tdm1998
+23	tdm1998 TristanMitchell tdochs talbright
 24	tdochs
 25	tgcarlson
 26	theppner
