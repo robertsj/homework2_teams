@@ -34,7 +34,7 @@ Here's the list:
 10	kelli23 kellim521 lukesteg kboom7
 11	lukesteg
 12	mapartr
-13	nickclapp
+13	nickclapp nick-clapp petefish mapartr
 14	petefish
 15	peterg27 peterg27 pmascal petefish
 16	pmascal
