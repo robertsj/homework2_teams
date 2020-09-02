@@ -24,7 +24,7 @@ Here's the list:
 0	acneilse acneilse adamowens2199	wfpelton
 1	adamowens2199 adamowens bteaford17 acneilse
 2	bteaford17
-3	csk214
+3	csk214 csk214 cjlucero bteaford17
 4	cjlucero
 5	cmason2211 cmason2211 egiunta cjlucero
 6	egiunta ericgiunta emsimon11 cmason2211
