@@ -40,7 +40,7 @@ Here's the list:
 16	pmascal pmascal rhwiens peterg27
 17	rhwiens rhwiens schif pmascal
 18	schif JacobRobert sethe44 rhwiens
-19	sethe44
+19	sethe44 seckels44 stclennan schif
 20	stclennan stclennan stevejr sethe44
 21	stevejr steve-bush talbright stclennan
 22	talbright tylerbalbright tdm1998 stevejr
@@ -50,4 +50,3 @@ Here's the list:
 26	theppner theppner99 wfpelton tgcarlson 
 27	wfpelton wfpelton acneilse theppner
 ```
-
