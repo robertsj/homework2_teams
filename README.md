@@ -1,4 +1,4 @@
-# Homework 2 Teams
+# Homework 2 Teams Are Happy
 
 Team assignments for Homework 2??????
 
