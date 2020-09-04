@@ -1,6 +1,6 @@
-# Homework 2 Teams Are Happy
+# Homework 2 Teams Are Fun and Happy
 
-Team assignments for Homework 2??????
+Team assignments for Homework 2!!!???
 
 # Instructions
 
@@ -18,7 +18,7 @@ beta
 gamma
 ```
 
-Here's the list:
+Here's the list!!!!!
 
 ```
 0	acneilse acneilse adamowens2199	wfpelton
