@@ -1,6 +1,6 @@
-# Homework 2 Teams Are Fun and Happy
+# Homework 2 Teams
 
-Team assignments for Homework 2!!!???
+Team assignments for Homework 2
 
 # Instructions
 
