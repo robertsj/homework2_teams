@@ -21,5 +21,25 @@ gamma
 Here's the list!!!!!
 
 ```
-TO BE COMPLETED IN CLASS
+danecashion
+dcolgan
+crouchb
+nenns
+jacksonfellows
+jmgrote215
+hutchinsonkeely
+zekej
+calkna
+dariusm
+jemilbu
+clarence64
+milan
+jacobdmorrison7
+jlness
+zcoster
+dustympage
+rfsantill
+colstaub
+samtom
+bweinhold
 ```
