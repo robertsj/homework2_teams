@@ -40,6 +40,6 @@ zcoster
 dustympage
 rfsantill
 colstaub
-samtom
+samtom   SamJTom bweinhold colstaub
 bweinhold
 ```
