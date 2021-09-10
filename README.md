@@ -26,7 +26,7 @@ dcolgan
 crouchb
 nenns
 jacksonfellows
-jmgrote215 jmgrote215 jacksonfellows hutchinsonkeely
+jmgrote215 jmgrote215 jackson-fellows hutchinson-keely
 hutchinsonkeely
 zekej
 calkna
