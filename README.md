@@ -23,7 +23,7 @@ Here's the list!!!!!
 ```
 danecashion
 dcolgan
-crouchb crouchb dcolgan nenns
+crouchb crouchb nenns dcolgan
 nenns
 jacksonfellows
 jmgrote215
