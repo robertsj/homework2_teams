@@ -18,10 +18,10 @@ beta
 gamma
 ```
 
-Here's the list!!!!!
+Here's the list....
 
 ```
-danecashion
+danecashion               
 dcolgan
 crouchb
 nenns
