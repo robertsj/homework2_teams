@@ -13,8 +13,8 @@ GitHub id after your classroom id.  In the third and fourth columns,
 add the id of who you will PR into and who will PR into you, e.g., 
 
 ```
-alpha  alpha_git_id   beta   gamma  
 beta
+alpha  alpha_git_id   beta   gamma  
 gamma
 ```
 
@@ -31,7 +31,7 @@ hutchinsonkeely
 zekej
 calkna
 dariusm
-jemilbu
+jemilbu jemilbu dariusm clarence64
 clarence64
 milan
 jacobdmorrison7
