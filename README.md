@@ -13,33 +13,34 @@ GitHub id after your classroom id.  In the third and fourth columns,
 add the id of who you will PR into and who will PR into you, e.g., 
 
 ```
-alpha  alpha_git_id   beta   gamma  
 beta
+alpha  alpha_git_id   beta   gamma  
 gamma
 ```
 
-Here's the list!!!!!
+Here's the list....
 
 ```
-danecashion
-dcolgan
-crouchb
-nenns
+danecashion  danecashion  dcolgan  bweinhold
+dcolgan dcolg crouchb danecashion
+crouchb crouchb nenns dcolgan
+nenns nenns2155 jacksonfellows crouchb
 jacksonfellows
 jmgrote215
-hutchinsonkeely
-zekej
+hutchinsonkeely hutchinson-keely zekej jmgrote215 
+zekej zekejimenez calkna hutchinsonkeely
 calkna calder-knapp dariusm zekej
 dariusm
-jemilbu
+jemilbu jemilbu dariusm clarence64
 clarence64
-milan
+milan MilanMin jacobdmorrison7 clarence64
 jacobdmorrison7
 jlness
-zcoster
-dustympage
-rfsantill
-colstaub
-samtom
-bweinhold
+zcoster mKiloLA dustympage jlness
+dustympage DustyPage rfsantill zcoster
+rfsantill rfsantill colstaub dustympage
+colstaub colstaub samtom rfsantill
+samtom   SamJTom bweinhold colstaub
+bweinhold BenW3 danecashion samtom
 ```
+
