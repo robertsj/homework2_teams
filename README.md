@@ -44,3 +44,5 @@ samtom   SamJTom bweinhold colstaub
 bweinhold BenW3 danecashion samtom
 ```
 
+**IMPORTANT**:  For example `clarence64` will make a PR *to* `milan` and receive a PR *from* `jemilbu` irrespective of how the third and fourth columns are structured.  It was my fault for not being careful enough when we started!
+
