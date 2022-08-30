@@ -7,7 +7,8 @@ Team assignments for Homework 2
 For homework 2, you will be making and receiving pull requests
 based on where your Classroom identifier sits alphabetically.
 You will make a pull request to the person who comes after you in the list.
-The same will be done by the person who comes before you. 
+The same will be done by the person who comes before you. The last person in the list
+makes a request to the first person in the list.
 
 In order to make sure we're all on the same page, each of you
 must make a pull request into *this* repository that adds your
