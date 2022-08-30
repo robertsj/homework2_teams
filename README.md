@@ -4,45 +4,45 @@ Team assignments for Homework 2
 
 # Instructions
 
-Below is a list of your GitHub Classroom identifiers in 
-alphabetical order.  For homework 2, you will 
-make a pull request to the person who comes after you in the list below.
-The same will be done by the person who comes before you.  You need
-to make a pull request into this repository that adds your
-GitHub id after your classroom id.  In the third and fourth columns,
-add the id of who you will PR into and who will PR into you, e.g., 
+For homework 2, you will be making and receiving pull requests
+based on where your Classroom identifier sits alphabetically.
+You will make a pull request to the person who comes after you in the list.
+The same will be done by the person who comes before you. 
+
+In order to make sure we're all on the same page, each of you
+must make a pull request into *this* repository that adds your
+GitHub id after your Classroom identifier.  In the third and fourth columns,
+you will add the Classroom identifier of who you will PR into and who will PR into you.  
+
+For example, a classroom with three students having identifiers
+alpha, beta, and gamma would have this table:
 
 ```
-beta
 alpha  alpha_git_id   beta   gamma  
-gamma
+beta   beta_git_id    gamma  alpha
+gamma  gamma_git_id   alpha  beta
 ```
 
-Here's the list....
+Below is a list of your GitHub Classroom identifiers in 
+alphabetical order.  
 
 ```
-danecashion  danecashion  dcolgan  bweinhold
-dcolgan dcolg crouchb danecashion
-crouchb crouchb nenns dcolgan
-nenns nenns2155 jacksonfellows crouchb
-jacksonfellows jackson-fellows jmgrote215 nenns
-jmgrote215 jmgrote215 jackson-fellows hutchinson-keely
-hutchinsonkeely hutchinson-keely zekej jmgrote215 
-zekej zekejimenez calkna hutchinsonkeely
-calkna calder-knapp dariusm zekej
-dariusm
-jemilbu jemilbu dariusm clarence64
-clarence64
-milan MilanMin jacobdmorrison7 clarence64
-jacobdmorrison7
-jlness
-zcoster mKiloLA jlness dustympage
-dustympage DustyPage rfsantill zcoster
-rfsantill rfsantill colstaub dustympage
-colstaub colstaub samtom rfsantill
-samtom   SamJTom bweinhold colstaub
-bweinhold BenW3 danecashion samtom
+adam624
+ajboettcher3
+angel36
+bafunk
+djburgett
+emmadeg
+gracewojcik
+jnillo
+kirkenda
+lkmcfadd
+mckeer1
+mjkarley
+nfstone
+oscarsaf
+wjk
+zjkowal
 ```
 
-**IMPORTANT**:  For example `clarence64` will make a PR *to* `milan` and receive a PR *from* `jemilbu` irrespective of how the third and fourth columns are structured.  It was my fault for not being careful enough when we started!
 
