@@ -1,6 +1,6 @@
 # Homework 2 Teams
 
-Team assignments for Homework 2
+These are the team assignments for Homework 2.
 
 # Instructions
 
