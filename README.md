@@ -28,22 +28,22 @@ Below is a list of your GitHub Classroom identifiers in
 alphabetical order.  
 
 ```
-adam624
+adam624 CABELLMAN ajboettcher3 zjkowal
 ajboettcher3
 angel36
 bafunk BrettFunk djburgett angel36
 djburgett djburgett emmadeg bafunk
 emmadeg emmadeg7 gracewojcik djburgett
 gracewojcik
-jnillo
+jnillo JulienIllo kirkenda gracewojcik
 kirkenda
 lkmcfadd
 mckeer1
 mjkarley
-nfstone
+nfstone  nfstone   oscarsaf  mjkarley
 oscarsaf
 wjk
-zjkowal
+zjkowal zjkowal adam624 wjk
 ```
 
 
