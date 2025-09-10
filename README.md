@@ -19,31 +19,25 @@ For example, a classroom with three students having identifiers
 alpha, beta, and gamma would have this table:
 
 ```
-alpha  alpha_git_id   beta   gamma  
-beta   beta_git_id    gamma  alpha
-gamma  gamma_git_id   alpha  beta
+#ME    MY_GIT_ID       MAKE_PR_TO  GET_PR_FROM
+alpha  @alpha_git_id   beta        gamma  
+beta   @beta_git_id    gamma       alpha
+gamma  @gamma_git_id   alpha       beta
 ```
 
 Below is a list of your GitHub Classroom identifiers in 
 alphabetical order.  
 
 ```
-adam624 CABELLMAN ajboettcher3 zjkowal
-ajboettcher3
-angel36
-bafunk BrettFunk djburgett angel36
-djburgett djburgett emmadeg bafunk
-emmadeg emmadeg7 gracewojcik djburgett
-gracewojcik
-jnillo JulienIllo kirkenda gracewojcik
-kirkenda
-lkmcfadd
-mckeer1
-mjkarley
-nfstone  nfstone   oscarsaf  mjkarley
-oscarsaf
-wjk
-zjkowal zjkowal adam624 wjk
+abourman        @AidenBourman
+aidenbutcher04  @aidenbutcher0
+akmauler        @akmauler
+blayneg         @BlayneG6957
+deckerberg      @deckerberg
+lmcrowell       @lmcrowell
+plee30          @pglizzy
+rbourisaw       @rbourisaw
+salamandersix   @salamandersix
 ```
 
 
